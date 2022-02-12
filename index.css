@@ -1,0 +1,50 @@
+h5 {
+  display: none;
+}
+
+.link {
+  width: 50%;
+  margin: auto;
+}
+
+.navigation {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.absolute {
+  position: absolute;
+  top: 10rem;
+}
+
+.relative {
+  position: relative;
+}
+
+.underline {
+  text-decoration: none;
+}
+
+.green {
+  background-color: #f1fcf9;
+}
+
+.light-green {
+  background-color: #f1fcf9;
+}
+
+.unique {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unique-2 {
+  margin-left: 6rem;
+}
+
+.links {
+  text-decoration: none;
+  justify-content: space-between;
+}
